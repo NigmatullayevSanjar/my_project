@@ -5,9 +5,9 @@ import asyncpg
 # ======================================================
 DB_HOST = "localhost"
 DB_PORT = 5432
-DB_NAME = "kafel_db"
+DB_NAME = ""
 DB_USER = "postgres"
-DB_PASS = "5056"
+DB_PASS = ""
 # ======================================================
 
 pool: asyncpg.Pool = None

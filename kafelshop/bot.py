@@ -21,8 +21,8 @@ import db
 # ══════════════════════════════════════
 #   SOZLAMA  — faqat shu qismni o'zgartiring
 # ══════════════════════════════════════
-BOT_TOKEN = "8846832394:AAHH_JxI2lBkEVT23uByBJMWYs3GzC6a-s4"   # @BotFather dan token
-ADMIN_IDS = [5320183219, 717071164, 1087021505]             # Sizning Telegram ID
+BOT_TOKEN = ""   # @BotFather dan token
+ADMIN_IDS = []             # Sizning Telegram ID
 # ══════════════════════════════════════
 
 logging.basicConfig(level=logging.INFO)
